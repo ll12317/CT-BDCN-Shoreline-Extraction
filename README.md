@@ -64,6 +64,9 @@ datasets/
 ├── val/
 │   ├── images/
 │   └── masks/
+└── snowed/
+    ├── images/
+    └── masks/
 Each image should have a corresponding binary mask with the same file name.
 
 A dummy dataset is provided in datasets/dummy_dataset/ to demonstrate the expected data format and running workflow.
